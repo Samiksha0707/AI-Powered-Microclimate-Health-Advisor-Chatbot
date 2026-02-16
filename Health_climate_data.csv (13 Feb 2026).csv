@@ -12,11 +12,12 @@ Date,City,Temperature (°C),Humidity(%),Air Quality Index(AQI) Value, AQI Catego
 2026-02-13,Patna,22,70,140, Moderate,"Cough, breathing difficulties","Stay indoors, N95 masks, reduce outdoor exposure"
 2026-02-13,Bhubneswar,24,75,179, Moderate/Poor,"Asthma, chest discomfort","Avoid outdoor activity, use masks, air purifiers"
 2026-02-13,Nagpur,29,40,251, Poor,"Mild respiratory issues, allergies","Ventilate indoors, mask outdoors if sensitive"
-2026-02-13,Indore,25,45,145 Moderate/Poor,"Respiratory irritation, fatigue","Indoor air filtration, mask outdoors"
+2026-02-13,Indore,25,45,145, Moderate/Poor,"Respiratory irritation, fatigue","Indoor air filtration, mask outdoors"
 2026-02-13,Srinagar,5,50,130, Poor,"Cold-related illness, respiratory infections","Warm clothing, indoor heating, mask for air quality"
 2026-02-13,Guwahati,23,59,248, Poor,"Asthma, cough, eye irritation","Limit outdoor exposure, use air purifiers"
 2026-01-13,Imphal,19,60,143, Moderate/Poor,"Cold-related illness, mild respiratory issues","Warm clothing, avoid peak pollution times"
 2026-02-13,Shillong,19,70,65, Moderate ,"Respiratory irritation, cold-related illness","Warm clothing, monitor weather changes"
 2026-02-13,Agartala,17,65,142, Moderate/Poor ,"Mild respiratory issues","Ventilated indoor spaces, avoid dusty areas"
 2026-02-13,Aizawl,17,28,140, Moderate ,"Mild respiratory irritation","Mask outdoors, indoor humidifiers"
+
 
