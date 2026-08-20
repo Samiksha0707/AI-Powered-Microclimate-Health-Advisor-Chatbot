@@ -300,9 +300,6 @@ Date,City,Temperature (°C),Humidity(%),Air Quality Index(AQI) Value, AQI Catego
 2026-02-27,Shillong,21,91,85,Satisfactory,"Mild sinus pressure","Ventilate indoors"
 2026-02-27,Agartala,27,85,125,Moderate,"Throat irritation","Avoid smoke exposure"
 2026-02-27,Aizawl,23,92,95,Satisfactory,"Minor discomfort","Monitor air quality"
-
-
-Date,City,Temperature (°C),Humidity(%),Air Quality Index(AQI),Common Health Issues,Recommendations
 2026-02-06,Mumbai,~28°C - 34°C,~43–61%,248 (Poor),"Respiratory issues, allergies, eye irritation","Wear masks outdoors, use air purifiers, avoid peak pollution times"
 2026-02-06,Delhi,~15°C - 22°C,~38–77%,271–305 (Poor/Very Poor),"Asthma, cough, chest discomfort, fatigue","Stay indoors, mask N95, reduce outdoor activities, hydrate well"
 2026-02-06,Banglore,~21°C - 26°C,~15–88%,65–140 (Moderate),"Mild allergies, heat-related discomfort","Drink water, ventilate rooms, light clothing"
